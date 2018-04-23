@@ -1,4 +1,4 @@
-`include "SVGA_DEFINES.v"
+`include "SVGA_DEFINE.v"
 
 module HV_SYNC(
      CLK,
